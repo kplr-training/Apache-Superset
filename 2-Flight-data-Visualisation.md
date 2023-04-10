@@ -33,3 +33,26 @@ Cette visualisation montre le retard moyen à l'arrivée pour chaque compagnie a
 
 ![image](https://user-images.githubusercontent.com/123749462/230936017-70dc86d6-e3c3-4f66-92a5-da95c536d388.png)
 
+## Visualisation 3 : Nombre de vols par jour de la semaine
+
+Cette visualisation montre le nombre de vols pour chaque jour de la semaine.
+
+- Sélectionnez le type de visualisation Bar Chart.
+- Pour le champ Axe X, sélectionnez la colonne DAY_OF_WEEK.
+- Pour le champ Axe Y, sélectionnez la fonction d'agrégation COUNT(*).
+- Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
+
+
+![image](https://user-images.githubusercontent.com/123749462/230937035-d37cc995-9df7-4e5e-b19d-d043380a56d9.png)
+
+## Visualisation 4 : Pourcentage de vols annulés par compagnie aérienne
+Cette visualisation montre le pourcentage de vols annulés pour chaque compagnie aérienne.
+
+
+- Sélectionner le type de visualisation Pie Chart.
+- Remplir les champs obligatoires, y compris le titre du graphique et la source de données.
+- Pour le champ Dimensions, sélectionnez la colonne AIRLINE.
+- Pour le champ Metrics, sélectionnez l'expression SUM(CANCELLED).
+- Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
+
+![image](https://user-images.githubusercontent.com/123749462/230939429-61daeff3-399e-4006-a0c0-08e5a4458a18.png)
