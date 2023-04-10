@@ -21,3 +21,14 @@ Cette visualisation montre le nombre de vols pour chaque compagnie aérienne.
 - Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
 
 ![image](https://user-images.githubusercontent.com/123749462/230803352-d8cf650c-148f-46d0-b57e-54e795777d46.png)
+
+## Visualisation 2 : Retard moyen à l'arrivée par compagnie aérienne
+Cette visualisation montre le retard moyen à l'arrivée pour chaque compagnie aérienne.
+
+- Sélectionnez le type de visualisation Bar Chart.
+- Remplir les champs obligatoires, y compris le titre du graphique et la source des données.
+- Pour le champ Axe X(Dimensions), sélectionnez la colonne AIRLINE.
+- Pour le champ de l'axe Y(Metrics), sélectionnez la fonction d'agrégation AVG(ARRIVAL_DELAY).
+- Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
+
+![image](https://user-images.githubusercontent.com/123749462/230803773-9b35d577-981a-4f39-997c-af24507de618.png)
