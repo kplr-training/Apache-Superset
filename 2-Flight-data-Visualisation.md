@@ -12,4 +12,12 @@
 
 ![image](https://user-images.githubusercontent.com/123749462/230751632-05f0a951-c25f-4115-a26e-52c1bd5ecf1b.png)
 
-## Question 1 :
+## Visualisation 1 : Nombre de vols par compagnie aérienne
+Cette visualisation montre le nombre de vols pour chaque compagnie aérienne.
+
+- Sélectionner le type de visualisation Bar Chart.
+- Pour le champ Axe X(Dimensions), sélectionnez la colonne AIRLINE.
+- Pour le champ de l'axe Y(Metrics), sélectionnez la fonction d'agrégation COUNT(*).
+- Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
+
+![image](https://user-images.githubusercontent.com/123749462/230803352-d8cf650c-148f-46d0-b57e-54e795777d46.png)
