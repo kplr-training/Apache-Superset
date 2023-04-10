@@ -56,3 +56,12 @@ Cette visualisation montre le pourcentage de vols annulés pour chaque compagnie
 - Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
 
 ![image](https://user-images.githubusercontent.com/123749462/230939429-61daeff3-399e-4006-a0c0-08e5a4458a18.png)
+
+## Visualisation 5 : Distribution des retards au départ
+Cette visualisation montre la distribution des retards au départ.
+
+- Sélectionner le type de visualisation Histogramme.
+- Dans le champ Colonnes, sélectionnez la colonne DEPARTURE_DELAY.
+- Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
+![image](https://user-images.githubusercontent.com/123749462/231005320-a417f766-d837-444a-a1ac-dcfadb8aee17.png)
+
