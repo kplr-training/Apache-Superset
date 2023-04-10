@@ -73,3 +73,5 @@ Cette visualisation montre les 10 premiers aéroports par nombre de vols.
 - Pour le champ Axe Y, sélectionnez la fonction d'agrégation COUNT(*).
 - Fixez la limite à 10.
 - Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
+![image](https://user-images.githubusercontent.com/123749462/231017262-a3f5ce11-54ea-4727-99cd-03b2cc910e53.png)
+
