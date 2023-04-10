@@ -31,4 +31,5 @@ Cette visualisation montre le retard moyen à l'arrivée pour chaque compagnie a
 - Pour le champ de l'axe Y(Metrics), sélectionnez la fonction d'agrégation AVG(ARRIVAL_DELAY).
 - Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
 
-![image](https://user-images.githubusercontent.com/123749462/230803773-9b35d577-981a-4f39-997c-af24507de618.png)
+![image](https://user-images.githubusercontent.com/123749462/230936017-70dc86d6-e3c3-4f66-92a5-da95c536d388.png)
+
