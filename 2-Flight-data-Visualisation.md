@@ -65,3 +65,11 @@ Cette visualisation montre la distribution des retards au départ.
 - Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
 ![image](https://user-images.githubusercontent.com/123749462/231005320-a417f766-d837-444a-a1ac-dcfadb8aee17.png)
 
+## Visualisation 6 : Les 10 premiers aéroports par nombre de vols
+Cette visualisation montre les 10 premiers aéroports par nombre de vols.
+
+- Sélectionner le type de visualisation Bar Chart.
+- Pour le champ Axe X, sélectionnez la colonne ORIGIN_AIRPORT.
+- Pour le champ Axe Y, sélectionnez la fonction d'agrégation COUNT(*).
+- Fixez la limite à 10.
+- Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
