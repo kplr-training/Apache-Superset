@@ -35,3 +35,16 @@ Cette visualisation montre le nombre de vols entre chaque aéroport d'origine et
 - Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
 
 ![image](https://user-images.githubusercontent.com/123749462/231126102-6b9d3b55-96b9-4162-9c47-64db39a1af53.png)
+
+## Visualisation 10 :  Bubble chart des retards de vols par compagnie aérienne et par distance
+Cette visualisation montre la relation entre le retard des vols et la distance, groupés par compagnie aérienne, sous la forme d'un graphique à bulles.
+
+- Sélectionner le type de visualisation  Bubble chart.
+- Pour le champ Entité, sélectionnez la colonne AIRLINE.
+- Pour le champ de l'axe X, sélectionnez la colonne DISTANCE et choisissez la fonction d'agrégation AVG.
+- Pour le champ de l'axe des Y, sélectionnez la colonne AIR_TIME et choisissez la fonction d'agrégation AVG.
+- Pour la zone Bubble Size, sélectionnez la colonne DEPARTURE_DELAY et choisissez la fonction d'agrégation AVG.
+- En option, vous pouvez ajouter un filtre pour limiter les données à un intervalle de temps spécifique, ajuster le schéma de couleurs et les paramètres de la légende, et modifier la taille des bulles.
+- Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
+![image](https://user-images.githubusercontent.com/123749462/231129990-da6a5dff-7bbb-43b7-b1ff-bcf5319ec136.png)
+
