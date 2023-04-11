@@ -22,3 +22,11 @@ Cette visualisation montre les principales destinations en fonction du nombre de
 - Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
 
 ![image](https://user-images.githubusercontent.com/123749462/231021336-14579275-6855-45a6-b61c-fa7fc3e56466.png)
+
+## Visualisation 9 : Nombre de vols par Etat
+Cette visualisation montre le nombre de vols par Etat à l'aide d'une carte choroplèthe.
+
+- Sélectionner le type de visualisation Mapbox Choropleth Map.
+- Pour le champ Région, sélectionnez la colonne État.
+- Pour le champ Metric, sélectionnez la fonction d'agrégation COUNT(*).
+- Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
