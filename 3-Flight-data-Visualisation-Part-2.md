@@ -48,3 +48,11 @@ Cette visualisation montre la relation entre le retard des vols et la distance, 
 - Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
 ![image](https://user-images.githubusercontent.com/123749462/231129990-da6a5dff-7bbb-43b7-b1ff-bcf5319ec136.png)
 
+## Visualisation 11 :  Destinations de vol sur Mapbox : Localisations basées sur des données de longitude et de latitude 
+
+- Dans l'onglet "Query", sélectionnez la colonne "Longitude" pour le champ "Longitude" et la colonne "Latitude" pour le champ "Latitude".
+- Personnalisez le style et la couleur des marqueurs comme vous le souhaitez.
+- Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
+
+![image](https://user-images.githubusercontent.com/123749462/231133649-b275655c-3980-4140-8881-1c11277aeb0b.png)
+
