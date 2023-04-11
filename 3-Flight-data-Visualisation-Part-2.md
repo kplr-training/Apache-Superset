@@ -23,10 +23,15 @@ Cette visualisation montre les principales destinations en fonction du nombre de
 
 ![image](https://user-images.githubusercontent.com/123749462/231021336-14579275-6855-45a6-b61c-fa7fc3e56466.png)
 
-## Visualisation 9 : Nombre de vols par Etat
-Cette visualisation montre le nombre de vols par Etat à l'aide d'une carte choroplèthe.
+## Visualisation 9 : Heat Map du nombre de vols par origine et destination
+Cette visualisation montre le nombre de vols entre chaque aéroport d'origine et de destination sous forme de carte thermique.
 
-- Sélectionner le type de visualisation Mapbox Choropleth Map.
-- Pour le champ Région, sélectionnez la colonne État.
-- Pour le champ Metric, sélectionnez la fonction d'agrégation COUNT(*).
+- Sélectionnez le type de visualisation Heatmap.
+- Pour le champ Axe X, sélectionnez la colonne  ORIGIN_AIRPORT.
+- Pour le champ Axe Y, sélectionnez la colonne DESTINATION_AIRPORT.
+- Pour le champ Métriques, sélectionnez la fonction d'agrégation COUNT(*).
+- Configure Row Limit à 10
+- En option, vous pouvez ajuster le schéma de couleurs et les paramètres de la légende à votre convenance.
 - Cliquez sur le bouton Exécuter la requête pour générer la visualisation.
+
+![image](https://user-images.githubusercontent.com/123749462/231126102-6b9d3b55-96b9-4162-9c47-64db39a1af53.png)
